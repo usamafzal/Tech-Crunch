@@ -16,6 +16,6 @@
 
 ## 📖 How to Use
 
-1. Clone the repository:
-   <a href="https://github.com/yourusername/yourapp" target="_blank">Check out the app on GitHub</a>
+1. Download the app:
+   <a href="https://github.com/usamafzal/Tech-Crunch/releases/tag/v1.0.0" target="_blank">Download the app here</a>.
 
